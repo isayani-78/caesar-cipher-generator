@@ -1,7 +1,7 @@
 import string
 
 
-chars = string.ascii_letters + string.digits + string.punctuation + " "
+chars = string.ascii_letters + string.digits + string.punctuation + " " 
 
 
 common_words = ["the", "and", "you", "that", "for", "with", "this", "have",
